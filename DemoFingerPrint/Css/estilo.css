@@ -1,0 +1,53 @@
+.mensaje_warning{
+    background-color: #ffffcb;
+    text-align: left;
+    border: solid 1px #ceab60;
+    padding: 1.65em 1.65em .75em 0.5em; 
+    font-family: Helvetica, Arial, sans-serif; 
+    font-size: 75%;
+    top:5;
+    left:5;
+    opacity:0.9;  
+    width: 300px;
+    float: right;
+    display: none;
+     border-radius: 5px;
+}
+
+.mensaje_success{
+    background-color: #d0f3ea;
+    text-align: left;
+    border: solid 1px #46b79c;
+    padding: 1.65em 1.65em .75em 0.5em; 
+    font-family: Helvetica, Arial, sans-serif; 
+    font-size: 75%;
+    top:5;
+    left:5;
+    opacity:0.9;  
+    width: 300px;
+    float: right;
+    display: none;
+    border-radius: 5px;
+}
+
+
+.mensaje_danger{
+    background-color: #fdeae9;
+    text-align: left;
+    border: solid 1px #f33c36;
+    padding: 1.65em 1.65em .75em 0.5em; 
+    font-family: Helvetica, Arial, sans-serif; 
+    font-size: 75%;
+    top:5;
+    left:5;
+    opacity:0.9;  
+    width: 300px;
+    float: right;
+    display: none;
+    border-radius: 5px;
+}
+
+.messageStyle{
+    border: .85px;
+    margin:-2.2em 0 0.55em 2.5em;
+}
